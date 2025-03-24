@@ -1,0 +1,62 @@
+h1{
+    color:blue
+}
+ul{
+    color:red;
+    text-align: left;
+    font-style: oblique;
+      
+}
+h2{
+    color:green;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+h3{
+    text-align: left;
+    color: blue;
+   }
+body{
+    text-align: center;
+    font-size: 35px;
+    background-color:lightblue;
+    border-style: double;
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+    border-radius: 5px;
+    padding: 196px;
+    
+}
+
+table, th, td {
+    border: 1px solid;
+  color:black;
+}
+div.mycontainer {
+    width:100%;
+    overflow:auto;
+  }
+  div.mycontainer div {
+    width:33%;  
+    float:left;
+  }
+  button {
+    background-color: white; 
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration:none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border: 2px solid #04AA6D;
+    
+   
+  }
+  button:hover {
+    background-color: #04AA6D;
+    color: blue;
+  }
